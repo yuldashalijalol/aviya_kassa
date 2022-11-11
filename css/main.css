@@ -1,0 +1,36 @@
+
+ body {
+  font-family: 'Alfa Slab One';
+  height: 83vh;
+  background-color: #f1f1f1;
+  background-repeat: no-repeat;
+  background-image: url('../img/airafulot.jpg');
+  background-size: cover;
+}
+
+.aviya__box {
+  width: 550px;
+  height: 550px;
+  margin: 0 auto;
+  margin-top: 200px;
+  background-color: #e5e5e5;
+  background-repeat: no-repeat;
+  background-image: url('../img/airafulot2.jpg');
+  background-size: cover;
+  background-position: center bottom;
+  padding: 40px;
+  font-size: 24px;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  color: #333;
+  text-align: center;
+  vertical-align: middle;
+  box-shadow: 15px 0 10px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+}
+
+.aviya__inbox {
+  color: #de1919;
+  opacity: 1;
+}
